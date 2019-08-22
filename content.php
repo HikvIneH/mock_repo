@@ -5,4 +5,5 @@
         echo "qyndb";
         echo "pkgat";
         echo "vmrep";
+        echo "juoja";
 ?>
