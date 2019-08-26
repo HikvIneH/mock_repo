@@ -6,5 +6,5 @@
         echo "pkgat";
         echo "vmrep";
         echo "juoja";
-        echo "ufsey";
+        echo "qpifw";
 ?>
