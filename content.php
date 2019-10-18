@@ -59,5 +59,4 @@
         echo "atcky";
         echo "wjhyf";
         echo "iryno";
-        echo "apfmx";
 ?>
