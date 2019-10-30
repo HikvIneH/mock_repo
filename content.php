@@ -32,5 +32,4 @@
         echo "elqpd";
         echo "knryn";
         echo "wpjli";
-        echo "yvdvl";
 ?>
