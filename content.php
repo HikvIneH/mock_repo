@@ -37,5 +37,5 @@
         echo "cbmha";
         echo "morow";
         echo "pausx";
-        echo "htfdi";
+        echo "botfn";
 ?>
