@@ -44,5 +44,4 @@
         echo "qldjv";
         echo "mdltj";
         echo "bdpeg";
-        echo "ptixr";
 ?>
