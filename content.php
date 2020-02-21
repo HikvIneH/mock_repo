@@ -110,5 +110,4 @@
         echo "yyygo";
         echo "hxaxn";
         echo "ldwaj";
-        echo "rafyj";
 ?>
